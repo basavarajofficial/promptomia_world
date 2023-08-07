@@ -22,6 +22,8 @@ const MyProfile = () => {
         if(session?.user.id)  fetchPosts();
       }, []);
 
+      console.log(posts);
+
 
       // edit the prompt
     const handleEdit=(post) =>{
