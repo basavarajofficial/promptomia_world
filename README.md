@@ -24,6 +24,7 @@
     - https://github.com/nextauthjs/next-auth-example
  - Google authentication credentials to verify the account.
  - profile view( own accound & others account profile), and can see the prompts created by the perticular users by checking their profile.
+ - Can search with text and by clicking on tags.
  - CRUD functionalities for handling _Prompts_ which added by the users.
  - Users can edit/delete only the prompts which is created by them.
 
